@@ -12,6 +12,7 @@
 class Media extends Site
 {
     public  $mediaCnt;
+	public  $mediaCnt123;
     public  $layout;
     private $absPthToDstSvr = '';
 
