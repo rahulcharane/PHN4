@@ -7,6 +7,7 @@
  * @abstract
  * @static
  * @global
+ * This is test message
  */
 class AccessLog extends Site
 {
