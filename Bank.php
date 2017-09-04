@@ -3,7 +3,7 @@
 /**
  * This class handles all bank module related queries/requests.
  * This class handles the business logic of listing/add/edit/delete/search/questionlist and other requests of banks.
- * this is rahul
+ * this is rahul/sandip
  * @access   public
  * @abstract
  * @static
@@ -15,6 +15,7 @@ class Bank extends Site {
     public $id;
 
     /**
+	 * This is test 
      * Construct new bank instance
      *
      *
