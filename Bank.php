@@ -3,11 +3,12 @@
 /**
  * This class handles all bank module related queries/requests.
  * This class handles the business logic of listing/add/edit/delete/search/questionlist and other requests of banks.
- *
+ * this is rahul
  * @access   public
  * @abstract
  * @static
  * @global
+ * @star
  */
 class Bank extends Site {
 
